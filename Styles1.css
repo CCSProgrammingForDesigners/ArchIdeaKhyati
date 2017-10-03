@@ -1,0 +1,25 @@
+p{width: 1000px; word-wrap: break-word;}
+.white{color: white;}
+.selected{
+  color: red;
+}
+
+
+.button {
+    background-color: #00ccff;
+    border-radius: 12px;
+    border: 1px solid #00ccff;
+    color: white;
+    padding: 12px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+}
+body {
+    background-image: url("http://drobs.ru/opyat/11/pogruzhenie_krasochnyy_svet_kaleydoskop_uzory_1920x1200.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+p{line-height: 70%;
